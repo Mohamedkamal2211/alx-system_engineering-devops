@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m 77 /tmp/my_first_directory/
+mkdir -m /tmp/my_first_directory/
